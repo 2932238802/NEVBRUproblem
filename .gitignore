@@ -2,3 +2,6 @@
 .venv
 install
 data
+__pycache__
+
+*.xls
